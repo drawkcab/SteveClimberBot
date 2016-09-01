@@ -4,18 +4,20 @@
   "description": "",
   "main": "testbot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node testbot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+/testbot.git"
+    "url": "git+https://github.com/drawkcab/testbot.git"
   },
   "author": "drawkcab",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
-    "url": "issues"
+    "url": "https://github.com/drawkcab/testbot/issues"
   },
-  "homepage": "#readme",
+  "homepage": "https://github.com/drawkcab/testbot#readme",
   "dependencies": {
-    "discord.js": "^7.0.1"
+    "discord.js": "^7.0.1",
+    "request": "^2.74.0"
   }
+}
