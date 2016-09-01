@@ -1,0 +1,21 @@
+{
+  "name": "testbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "testbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+/testbot.git"
+  },
+  "author": "drawkcab",
+  "license": "MIT",
+  "bugs": {
+    "url": "issues"
+  },
+  "homepage": "#readme",
+  "dependencies": {
+    "discord.js": "^7.0.1"
+  }
