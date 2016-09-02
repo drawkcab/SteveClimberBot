@@ -1,21 +1,21 @@
 {
-  "name": "testbot",
+  "name": "Steve Climber bot",
   "version": "0.0.1",
   "description": "",
-  "main": "testbot.js",
+  "main": "steveClimberBot.js",
   "scripts": {
-    "start": "node testbot.js"
+    "start": "node steveClimberBot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drawkcab/testbot.git"
+    "url": "git+https://github.com/drawkcab/SteveClimberBot.git"
   },
   "author": "drawkcab",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/drawkcab/testbot/issues"
+    "url": "https://github.com/drawkcab/SteveClimberBot/issues"
   },
-  "homepage": "https://github.com/drawkcab/testbot#readme",
+  "homepage": "https://github.com/drawkcab/SteveClimberBot#readme",
   "dependencies": {
     "discord.js": "^7.0.1",
     "request": "^2.74.0"
