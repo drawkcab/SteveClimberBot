@@ -1,6 +1,7 @@
-![Steve Climber Bot](http://rhodesandrose.com/wp-content/uploads/2011/04/steve_still.jpg)
 # Steve Climber Bot
 ------
+![Steve Climber Bot](http://rhodesandrose.com/wp-content/uploads/2011/04/steve_still.jpg)
+
 Check out Steve Climber bot and all the wonderful things he brings to your Discord channel. Loads of functionality is packed into his Flextrek 37,000,000,000,000 Whip Snake Edition.
 
 ### Add the bot to you your channel
