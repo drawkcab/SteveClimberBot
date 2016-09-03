@@ -45,7 +45,14 @@ bot.on("message", function(message){
   bot.setStatus('here',"with the Flextrek 37,000,000,000,000 Whip Snake Edition");
 
   if(command === "!help"){
-    bot.sendMessage(message, "Hi! welcome to channel. Here is a list of commands I know: \n!ping : pong, \n!help : How you got here...., \n!gif [content] : Provides a random gif based on given content., \n!lmgtfy [content] : Let Me Google That For You, \n!w [content] : Provides the weather forcast for given location,\n!cat : Provides you with amazing facts about cats.");
+    bot.sendMessage(message, "Here is everything I have in my Flextrek 37,000,000,000,000 Whip Snake Edition: \n"+
+      "`!cat` Provides you with amazing facts about cats.\n"+
+      "`!gif [content]` Provides a random gif based on given content. \n"+
+      "`!help` How you got here.... \n"+
+      "`!lmgtfy [content]` Let Me Google That For You. \n"+
+      "`!lol [content]` Based on the summoner name provided this shows stats from the last three games played. \n"+
+      "`!ping` pong. \n"+
+      "`!w [content]` Provides the weather forecast for a given location.");
   }
 
   if(command === "!ping"){
